@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package>
+  <name>guardian_terabot_description</name>
+  <version>1.0.0</version>
+  <description>The guardian_terabot_description package</description>
+
+  <maintainer email="rnavarro@robotnik.es">Román Navarro</maintainer>
+  <maintainer email="rguzman@robotnik.es">Roberto Guzmán</maintainer>
+
+  <license>BSD</license>
+
+  <!-- <url type="website">http://wiki.ros.org/terabot_control</url> -->
+
+  <author email="rnavarro@robotnik.es">Román Navarro</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>guardian_description</build_depend>
+  <build_depend>terabot_description</build_depend>
+  <run_depend>guardian_description</run_depend>
+  <run_depend>terabot_description</run_depend>
+
+
+  <export>
+
+  </export>
+</package>

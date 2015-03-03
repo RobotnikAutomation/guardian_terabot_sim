@@ -48,7 +48,7 @@
 	<xacro:ros_control_guardian namespace="/guardian_terabot"/>
 	
 	<xacro:terabot name="terabot" parent="base_link">
-		<origin xyz="0.100 0 0.375" rpy="0 0 0"/>
+		<origin xyz="0.190 0 0.287" rpy="0 0 0"/>
 	</xacro:terabot>
   
   
